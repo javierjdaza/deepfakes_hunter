@@ -1,6 +1,6 @@
 <div align="center">
   <img src="figures/Logo_EAFIT.png" alt="Universidad EAFIT" width="180"/>
-  <h1>deepfakes_hunter</h1>
+  <h1>DeepFakes Hunter</h1>
   <p><strong>Face-swap deepfake detection for KYC pipelines.</strong></p>
 
   [![PyPI version](https://img.shields.io/pypi/v/deepfakes_hunter)](https://pypi.org/project/deepfakes_hunter/)
@@ -10,7 +10,7 @@
 
 ---
 
-## What is deepfakes_hunter?
+## What is DeepFakes Hunter?
 
 `deepfakes_hunter` is a Python package that exposes a single, ready-to-use class — `DeepfakeDetector` — for classifying face images as **real** or **face-swapped (deepfake)**.
 
