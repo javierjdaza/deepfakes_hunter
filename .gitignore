@@ -1,0 +1,30 @@
+# model weights
+*.pth
+*.onnx
+*.h5
+*.pt
+*.ckpt
+
+# data
+*.csv
+*.tsv
+*.parquet
+*.json
+*.zip
+*.tar.gz
+
+# python
+__pycache__/
+*.egg-info/
+*.pyc
+dist/
+build/
+env/
+.venv/
+
+# os
+.DS_Store
+
+# logs
+*.log
+*.onnx
