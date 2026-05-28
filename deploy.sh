@@ -1,10 +1,8 @@
 #!/usr/bin/env bash
 set -e
 
-pip install wheel twine
-python setup.py sdist bdist_wheel
+pip install --upgrade build twine
+python -m build
 twine upload dist/*
 
-rm -rf build
-rm -rf dist
-rm -rf deepfakes_hunter.egg-info
+rm -rf build dist deepfakes_hunter.egg-info
