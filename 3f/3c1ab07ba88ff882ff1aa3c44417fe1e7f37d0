@@ -1,0 +1,20 @@
+README.md
+  s_e5be1f895a72b9::t_8a97920acd85d1 3
+  s_e5be1f895a72b9::t_70bb2544a2b94b 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "3f3c1ab07ba88ff882ff1aa3c44417fe1e7f37d0",
+  "prompts": {},
+  "sessions": {
+    "s_e5be1f895a72b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "babba93f-5fc0-4019-bc1b-0e5d005fb9e5",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Javier Javier Daza Olivella <javier.daza@mercadolibre.com.co>"
+    }
+  }
+}
